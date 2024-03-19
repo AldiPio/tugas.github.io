@@ -1,0 +1,25 @@
+body {
+  min-height: 1500px;
+}
+
+#Carausel {
+  padding-top: 3.5rem;
+  background-color: #dee1e4;
+}
+
+#main {
+  padding-top: 2rem;
+  margin-left: 2rem;
+}
+
+#main {
+  margin-bottom: 5rem;
+}
+
+.card-group {
+  padding-left: 15rem;
+}
+
+#team2 {
+  padding-left: 10rem;
+}
